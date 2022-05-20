@@ -1,0 +1,206 @@
+[
+    {
+        "question": "From the following choices, which term is best described by the following definition? ",
+        "questionSupple": "“An alteration of a building or a facility that has little likelihood of being accomplished because the existing structural conditions require the removal or alteration of a load-bearing member that is an essential part of the structural frame, or because other existing physical or site constraints prohibit modification or addition of elements, spaces or features which are in full and strict compliance with the minimum requirements for new construction and which are necessary to provide accessibility.” ",
+        "questionPic": "",
+        "choiceType": "multiple",
+        "answer": "A",
+        "answerChoice": [
+            { "id": 1, "type": "A", "choice": "technically infeasible", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 2, "type": "B", "choice": "structurally impossible", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 3, "type": "C", "choice": "structurally impracticable", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 4, "type": "D", "choice": "technically unreasonable", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 5, "type": "E", "choice": "technically illegal", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 6, "type": "F", "choice": "structurally irresponsible", "isSelected": false, "isMatched": false, "isPicked": false}
+        ],
+        "explanation": "Per the 2018 International Existing Building Code: TECHNICALLY INFEASIBLE. An alteration of a building or a facility that has little likelihood of being accomplished because the existing structural conditions require the removal or alteration of a load-bearing member that is an essential part of the structural frame, or because other existing physical or site constraints prohibit modification or addition of elements, spaces, or features which are in full and strict compliance with the minimum requirements for new construction and which are necessary to provide accessibility.",
+        "explanationSupple": [
+            {"VideoUrl": "",
+                "PicUrl": "",
+                "text": "Portions of this publication reproduce excerpts from the International Building Code and the International Residential Codes for One- and Two-Family Dwellings, International Code Council, Inc., Washington, D.C. Reproduced with permission. All rights reserved. (www.iccsafe.org)"
+            }
+        ]
+    },
+    {
+        "question": "Per the International Building Code, Additions, Alterations or Repairs, which of the following are true provisions?",
+        "questionSupple": "",
+        "questionPic": "",
+        "choiceType": "multiple",
+        "answer": "E",
+        "answerChoice": [
+            { "id": 7, "type": "A", "choice": "Additions or alterations to any building or structure shall conform with the requirements of the code for new construction.", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 8, "type": "B", "choice": "Additions or alterations shall not be made to an existing building or structure which will cause the existing building or structure to be in violation of any provisions of the code.", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 9, "type": "C", "choice": "An existing building plus additions shall comply with the height and area provisions of the code.", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 10, "type": "D", "choice": "Portions of the structure not altered and not affected by the alteration are not required to comply with the code requirements for a new structure.", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 11, "type": "E", "choice": "All of the above", "isSelected": false, "isMatched": false, "isPicked": false}
+        ],
+        "explanation": "Per IBC Section 3403.1 Existing Building or Structures: Additions or alterations to any building or structure shall conform with the requirements of the code for new construction. Additions or alterations shall not be made to an existing building or structure which will cause the existing building or structure to be in violation of any provisions of this code. An existing building plus additions shall comply with the height and area provisions of Chapter 5. Portions of the structure not altered and not affected by the alteration are not required to comply with the code requirements for a new structure",
+        "explanationSupple": [
+            {"VideoUrl": "",
+                "PicUrl": "",
+            "text": "Portions of this publication reproduce excerpts from the International Building Code and the International Residential Codes for One- and Two-Family Dwellings, International Code Council, Inc., Washington, D.C. Reproduced with permission. All rights reserved. (Updated Provisions can be found at: https://codes.iccsafe.org/content/IEBC2018P4/chapter-3-provisions-for-all-compliance-methods)"
+        }
+        ]
+    },
+    {
+        "question": "The ability of a system to dissipate energy beyond the elastic limit is also known as a measure of the system's _______?",
+        "questionSupple": "",
+        "questionPic": "",
+        "choiceType": "multiple",
+        "answer": "E",
+        "answerChoice": [
+            { "id": 12, "type": "A", "choice": "tension", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 13, "type": "B", "choice": "shear", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 14, "type": "C", "choice": "cross-grain bending", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 15, "type": "D", "choice": "relative stiffness", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 16, "type": "E", "choice": "ductility", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 17, "type": "F", "choice": "drift", "isSelected": false, "isMatched": false, "isPicked": false}
+        ],
+        "explanation": "",
+        "explanationSupple": [
+            { "VideoUrl": "",
+                "PicUrl": "https://firebasestorage.googleapis.com/v0/b/video-97834.appspot.com/o/elastic_limit.jpeg?alt=media&token=f2909563-fc2b-4d18-a572-8b33b07f841e",
+                "text": ""
+            }
+        ]
+    }, 
+    {
+        "question": "Which of the following would be additional site location factors that should be considered when evaluating a site for seismic hazards?  (Select 4)",
+        "questionSupple": "Site selection is typically determined by initial land costs, land use criteria such as zoning, proximity to transportation, and utility infrastructure. Additional site location factors that should be considered include environmental and geotechnical site conditions that would impact building performance, and factors that influence structural design criteria that would impact costs and performance.",
+        "questionPic": "",
+        "choiceType": "multiple",
+        "answer": "ACDF",
+        "answerChoice": [
+            { "id": 18, "type": "A", "choice": "liquefaction", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 19, "type": "B", "choice": "ponding", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 20, "type": "C", "choice": "avalanche", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 21, "type": "D", "choice": "landslide", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 22, "type": "E", "choice": "drifting", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 23, "type": "F", "choice": "tsunami", "isSelected": false, "isMatched": false, "isPicked": false}
+        ],
+        "explanation": "Per the FEMA 454: Designing for Earthquakes: A Manual for Architects \n\nIn evaluating or selecting a site, the objective will be to identify those natural and man-made forces that will impact the structure, and then to design a site plan and the structure to avoid or withstand those forces. It is necessary to start the site evaluation process with research of information available from local building and planning departments, the National Weather Service, FEMA’s National Flood Insurance Program (NFIP), the United States Geological Survey, state geological surveys, university geology departments and published research, and a geotechnical engineering firm familiar with the region and sources of local information. Include, where available, hazard mapping zones of ground faulting, liquefaction, landslides and probabilistic assessments of ground motions.",
+        "explanationSupple": [
+            { "VideoUrl": "",
+                "PicUrl": "https://firebasestorage.googleapis.com/v0/b/video-97834.appspot.com/o/site_location.jpeg?alt=media&token=c48f63ff-e7c8-4f86-9ebf-54991999ccb6",
+                "text": "The most obvious manifestations of earthquakes are earthquake fault offset, liquefaction, landslides, and ground shaking. Each of these hazards can be mitigated through careful site planning.\n\nLiquefaction occurs when water-saturated soils, sands, or gravels flow laterally or vertically like a liquid. This occurs when earthquake ground motions shake the material until the water pressure increases to the point that friction between particles is lost, and the ground flows, losing its strength. Liquefaction is most likely to occur where the soils are not consolidated (near rivers and streams, in basins, near coastlines and in areas of unconsolidated alluvium) and where ground water is within three to four meters of the surface. Liquefaction can occur at greater depths, resulting in large-scale ground failure that can destroy pavement, underground utilities, and building foundations.\n\nLandslides, ground settlement, and avalanches occur widely with and without earthquakes as a cause. All require special architectural treatment. Landslides and avalanches occur on slopes of a variety of geological materials.\n\nPotential for ground failure and landslides is determined by soil type, water content (degree of saturation), gradient (slope angle) and triggering events (an earthquake, excavation that upsets the site equilibrium, increase in water content resulting from irrigation or storm run-off). Geotechnical investigations of the site and surrounding terrain are critical in determining site vulnerability.\n\nA tsunami is a rapid rise in coastal sea level caused by offshore earthquakes that displace the ocean bottom, earthquake-triggered or natural submarine landslides and slumps, volcanic eruptions, or very infrequently by meteor strikes. Tsunami waves have a very long wavelength and travel at approximately 500 miles per hour in the open ocean. As they approach shallow waters, their speed and wavelength decreases, and their height increases dramatically."
+            }
+        ]
+    },
+    {
+        "question": "Three courses of brick, with mortar joints will be how many inches in height?",
+        "questionSupple": "",
+        "questionPic": "",
+        "choiceType": "Response",
+        "answer": "8",
+        "answerChoice": [
+            { "id": 24, "type": "inches", "choice": "", "isSelected": false, "isMatched": false, "isPicked": false}
+        ],
+        "explanation": "Three courses of brick, with mortar joints, will equal 8 inches in height.  Because concrete blocks comply with the same planning grid, it is easy to align courses when constructing multiwythe walls.",
+        "explanationSupple": [
+            { "VideoUrl": "",
+                "PicUrl": "",
+                "text": "A standard modular brick has nominal dimensions of 4” x 2 2/3” x 8”.  The actual dimensions of a standard modular brick are:\n\n3 5/8” x 2 ¼” x 7 5/8”."
+            }
+        ]
+    },
+    {
+        "question": "You are overseeing the construction of a structure that is being constructed using load-bearing, solid-grouted, concrete masonry unit (CMU) walls. While on site, you observe the masonry sub-contractor using mortar to fill the cells of the CMUs.  What are your thoughts on the appropriateness of what you observe?",
+        "questionSupple": "",
+        "questionPic": "",
+        "choiceType": "multiple",
+        "answer": "D",
+        "answerChoice": [
+            { "id": 25, "type": "A", "choice": "mortar is an acceptable alternate to grout, and what you observe is acceptable", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 26, "type": "B", "choice": "concrete is an acceptable alternate to grout, but mortar is not", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 27, "type": "C", "choice": "as long as the mortar is retempered it is an acceptable alternate for grout", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 28, "type": "D", "choice": "grout is not interchangeable with mortar, and what you observe is not acceptable", "isSelected": false, "isMatched": false, "isPicked": false}
+        ],
+        "explanation": "As defined by the Masonry Designer’s Guide, Fourth Edition (MDG-4), grout is a fluid cementitious mixture used to bond together adjacent masonry units or wythes, to bond steel reinforcement positioned in the collar tie between withes, to bond steel reinforcement in the cores of the masonry units, or to fill reinforced bond beams.\n\nWorkability – slump ranges of 8 inches to 11 inches allow the grout to flow properly into the cavities or cells.  Mortar should not be used for these purposes because its fluidity is inadequate to completely fill voids.\n\nRetempering:  the process of adding water to mortar.  Retempering is widely practiced to replace water lost by evaporation.  (Depending on environmental conditions, any mortar that is not used between 1 ½ and 2 ½ hours should be discarded.)",
+        "explanationSupple": [
+            { "VideoUrl": "",
+                "PicUrl": "",
+                "text": ""
+                
+            }
+        ]
+    },
+    {
+        "question": "The design wind pressures for the Main Wind Force Resisting System (MWFRS) using the Simplified Method is calculated using the equation in the accompanying image.  What does the coefficient Kzt account for?",
+        "questionSupple": "",
+        "questionPic": "https://firebasestorage.googleapis.com/v0/b/video-97834.appspot.com/o/mainWind.jpeg?alt=media&token=46448bc4-3838-4cff-9f3c-f19048d7adff",
+        "choiceType": "multiple",
+        "answer": "D",
+        "answerChoice": [
+            { "id": 29, "type": "A", "choice": "Internal pressures", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 30, "type": "B", "choice": "the use and occupancy of the structure", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 31, "type": "C", "choice": "enclosure classification", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 32, "type": "D", "choice": "wind speed-up effects due to hills, ridges and escarpments", "isSelected": false, "isMatched": false, "isPicked": false}
+        ],
+        "explanation": "Internal pressures are considered.  When Method 1 - The Simplified Method is used, the internal pressures are accounted for in the table for ps30.  When Method 2 - The Analytical Procedure is utilized, the internal pressures are taken into account via the coefficient GCpi.",
+        "explanationSupple": [
+            { "VideoUrl": "",
+                "PicUrl": "",
+                "text": "The Use and Occupancy is accounted for via the Importance Factor, I.\nWind Speed-Up over Hills, Ridges, and Escarpments: Wind speed-up effects at isolated hills, ridges, and escarpments constituting abrupt changes in the general topography, located in any exposure category, shall be included in the design when buildings and other site conditions and locations of structures meet all of the following conditions: The wind speed-up effect shall be included in the calculation of design wind loads by using the factor Kzt:\nKzt = (1 + K1K2K3)2\n1. The hill, ridge, or enscarpment is isolated and unobstructed upwind by other similar topographic features of comparable height for 100 times the height of the topographic feature 100 H) or 2 mi, whichever is less.  This distance shall be measured horizontally from the point at which the height H of the hill, ridge, or enscarpment is determined.\n2. The hill, ridge, or enscarpment protrudes above the height of the upwind terrain features within 2-mi radius in any quadrant by a factor of two or more.\n3. The structure is located as shown in Fig. 6-4 in the upper one-half of a hill or ridge or near the crest of an enscarpment.\n4. H / Lh ≥ 0.2\n5. H is greater than or equal to 15 ft. for Exposures C and D and 60 ft. for Exposure B.\n\nIf site conditions and location do not meet all the conditions, then Kzt = 1.0"
+                
+            }
+        ]
+    },
+    {
+        "question": "When considering options for a steel framing plan during schematic design, to provide the most efficient / economical steel framing plan which of the following rules should be kept in the back of your mind?  (Select 2)",
+        "questionSupple": "",
+        "questionPic": "",
+        "choiceType": "multiple",
+        "answer": "BD",
+        "answerChoice": [
+            { "id": 33, "type": "A", "choice": "framing bays should be square with an approximate area of 1,000 square feet", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 34, "type": "B", "choice": "framing bays should be rectangular with an approximate are of 1,000 square feet", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 35, "type": "C", "choice": "beams and girders should have the same span length", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 36, "type": "D", "choice": "beams should span in the long direction of the bay and the girders should span in the short direction", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 37, "type": "E", "choice": "girders should span in the long direction of the bay and the beams should span in the short direction", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 38, "type": "F", "choice": "beams should have a span length of approximately 60 feet", "isSelected": false, "isMatched": false, "isPicked": false}
+        ],
+        "explanation": "Framing Considerations",
+        "explanationSupple": [
+            { "VideoUrl": "",
+                "PicUrl": "",
+                "text": "•The most economical span range for conventional steel and roof steel framing systems ranges from 25 feet to 40 feet.\n\n•Steel framing bays should be approximately 1,000 square feet.\n\n•The proportions of the steel framing bay should be rectangular with proportions ranging from 1.25:1.0 to 1.50:1.0.  For the most economical system based on the weight of the structural steel, the girders should span the shorter dimension and the beams should span the longer direction.\n\n•The beams are typically spaced between 6’ to 15’ on center.  The spacing of the beams is controlled by the deck span range.\n\n•Typical span to depth ratios for wide flange members range between L/15 – L/28.  (Maybe a better rule is 1\" of depth for every 2' of span)"
+                
+            }
+        ]
+    },
+    {
+        "question": "For the guardrail assembly shown, what is the force in the top anchor due to the loading shown?",
+        "questionSupple": "",
+        "questionPic": "https://firebasestorage.googleapis.com/v0/b/video-97834.appspot.com/o/guardrail.jpeg?alt=media&token=7bcd9eea-3745-4743-9161-8f975ebaaf3c",
+        "choiceType": "Response",
+        "answer": "2500",
+        "answerChoice": [
+            { "id": 39, "type": "pounds", "choice": " ", "isSelected": false, "isMatched": false, "isPicked": false}
+        ],
+        "explanation": "This problem can be quickly using the NCARB Reference Material provided on the exam.  Realizing that the model for the gurardrail, loading and its support anchor resemble a \"beam overhaning one support with a concentrated load at the end of the overhang",
+        "explanationSupple": [
+            { "VideoUrl": "https://firebasestorage.googleapis.com/v0/b/video-97834.appspot.com/o/PREPARE_INC_243.mp4?alt=media&token=f5ab6f94-3d17-459f-b7f5-251dcc512f5b",
+                "PicUrl": "https://firebasestorage.googleapis.com/v0/b/video-97834.appspot.com/o/guardrail_E.jpeg?alt=media&token=c14e3350-7d2c-4e88-9421-2e17799d047e",
+                "text": "Click on the Reference Button , download the AISC Tables and look at Table 3-23 on page 3-220.  Solve for R2.\n\nR2 = (P/L)(L+a) = (200#/4\")(4\"+46\") = 2,500 pounds\n\nProprietary anchorage devices, such as those manufactured by Simpson Strongtie, may be a solution to consider to resolve the forces.\n\nSee the accompanying video for the worked solution."}
+        ]
+    },
+    {
+        "question": "A parallel chord truss in which all of the diagonals are stressed in compression and all of the vertical members are stressed in tension is known as this type of truss _____________________?",
+        "questionSupple": "",
+        "questionPic": "",
+        "choiceType": "multiple",
+        "answer": "B",
+        "answerChoice": [
+            { "id": 40, "type": "A", "choice": "Pratt", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 41, "type": "B", "choice": "Howe", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 42, "type": "C", "choice": "Warren", "isSelected": false, "isMatched": false, "isPicked": false},
+            { "id": 43, "type": "D", "choice": "Vierendeel", "isSelected": false, "isMatched": false, "isPicked": false}
+        ],
+        "explanation": "",
+        "explanationSupple": [
+            { "VideoUrl": "",
+                "PicUrl": "https://firebasestorage.googleapis.com/v0/b/video-97834.appspot.com/o/Howe_E.jpeg?alt=media&token=d20efcce-8219-4067-971c-b9dc8101870b",
+                "text": "Pratt Truss:  The diagonals are in tension, the verticals are in compression.\n\nHowe Truss:  The diagonals are in compression, the verticals are in tension.\n\nWarren Truss:  The diagonals alternate in direction and are either stressed in axial tension or compression.  Warren trusses are excellent for stress reversals.\n\nVierendeel:  Allows unimpeded movement thru base, as there are no diagonals.  It is essentially a moment resisting frame.  These elements are inefficient and expensive since all of the members are subjected to bending."}
+        ]
+    }
+]
